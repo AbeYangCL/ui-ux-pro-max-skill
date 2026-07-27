@@ -94,7 +94,7 @@ export function getAITypeDescription(aiType: AIType): string {
     case 'kiro':
       return 'Kiro (.kiro/steering/)';
     case 'codex':
-      return 'Codex (.codex/skills/)';
+      return 'Codex (.agents/skills/)';
     case 'roocode':
       return 'RooCode (.roo/skills/)';
     case 'qoder':
