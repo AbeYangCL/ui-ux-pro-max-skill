@@ -652,7 +652,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.com/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
 
 ## License
 
